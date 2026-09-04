@@ -27,14 +27,14 @@ A console-based (terminal) mobile payment simulation built in Python. It mimics 
 
 ## Project Structure
 
-
+```
 instaproject/
 ├── main.py          # Entry point — menus and program flow
 ├── auth.py          # Register, login, change password
 ├── operations.py    # Balance, card linking, deposit, withdraw, transfer, history
 ├── validation.py    # Reusable input-validation functions
 └── README.md
-
+```
 
 ## Requirements
 
@@ -56,7 +56,7 @@ instaproject/
 
 ## Usage Example
 
-
+```
 ===== InstaPay =====
 1. Register
 2. Login
@@ -103,4 +103,3 @@ Account created successfully! Welcome, Ismail Sherif.
 
 - Mazen Hussien Ramadan
 - Ismail Sherif Ismail
-Mazen Hussien Ramadan · Ismail Sherif Ismail
